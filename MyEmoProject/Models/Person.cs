@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace MyEmoProject;
+namespace MyEmoProject.Models;
 
 public partial class Person
 {
